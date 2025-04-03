@@ -59,7 +59,7 @@ const AboutSection = () => {
               <img
                 ref={imageRef}
                 src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
-                alt="Harsh - Computer Science Engineer"
+                alt="Developer"
                 className="rounded-lg border-4 border-spiderverse-yellow relative z-10 w-full h-auto"
               />
               <div className="absolute -inset-3 bg-gradient-to-r from-spiderverse-pink to-spiderverse-blue rounded-lg opacity-50 blur-lg -z-10"></div>
@@ -68,23 +68,23 @@ const AboutSection = () => {
           
           <div className="flex flex-col gap-6">
             <ComicPanel delay={0.2} className="rotated-panel">
-              <h3 className="text-2xl font-comic text-spiderverse-yellow mb-3">Education</h3>
+              <h3 className="text-2xl font-comic text-spiderverse-yellow mb-3">Who I Am</h3>
               <p className="text-white">
-                Currently pursuing B-Tech in Computer Science Engineering at Vishwakarma University (2023-2026) with a 7.9 CGPA. Previously completed a Diploma in Information Technology from Government Polytechnic Nagpur (2020-2023) with an 8.3 CGPA.
+                Like Peter Parker juggling his dual life, I balance the technical worlds of DevOps and Frontend Development. With a passion for creating seamless digital experiences, I swing between optimizing infrastructure and crafting beautiful user interfaces.
               </p>
             </ComicPanel>
             
             <ComicPanel variant="alt" delay={0.4} className="rotated-panel-reverse">
-              <h3 className="text-2xl font-comic text-spiderverse-pink-light mb-3">Experience</h3>
+              <h3 className="text-2xl font-comic text-spiderverse-pink-light mb-3">My Story</h3>
               <p className="text-white">
-                Worked as a Web Development Intern at Sampurva Technologies, Nagpur (June-August 2022), where I developed responsive web applications and gained hands-on experience with databases and APIs. My journey has equipped me with both theoretical knowledge and practical skills.
+                My journey began with a bite from the coding bug, transforming me from a curious tech enthusiast into a full-stack developer. Each project is a new universe to explore, where I can weave together code, design, and functionality into experiences that stick with users.
               </p>
             </ComicPanel>
             
             <ComicPanel delay={0.6} className="rotated-panel">
-              <h3 className="text-2xl font-comic text-spiderverse-blue-light mb-3">Projects & Skills</h3>
+              <h3 className="text-2xl font-comic text-spiderverse-blue-light mb-3">My Mission</h3>
               <p className="text-white">
-                Built a React.js Quiz App with API integration and an Apple iPhone website using React.js and Three.js for 3D modeling. I'm proficient in C++, Java, Python, JavaScript, and cloud technologies like AWS, Docker, and Kubernetes. I can communicate fluently in English, Hindi, and Marathi.
+                With great coding power comes great responsibility. I'm dedicated to creating web applications that are not just functional, but also intuitive, accessible, and visually stunning. Let's build something amazing together!
               </p>
             </ComicPanel>
           </div>
