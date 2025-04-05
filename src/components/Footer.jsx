@@ -10,13 +10,13 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="text-white mb-4 md:mb-0">
             <p className="font-comic">
-              © {new Date().getFullYear()} Peter Parker | Spider-Verse DevOps
+              © {new Date().getFullYear()} Harsh Bambatkar 
             </p>
           </div>
           
           <div>
             <p className="text-white/70 text-sm">
-              Crafted with <span className="text-spiderverse-pink">❤</span> across the Spider-Verse
+               Thank you for your visit !
             </p>
           </div>
         </div>

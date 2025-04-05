@@ -85,13 +85,14 @@ const HeroSection = () => {
               className="glitch-text font-comic text-5xl sm:text-6xl md:text-7xl text-white mb-4"
               data-text="Peter Parker"
             >
-              Peter Parker
+              Harsh Bambatkar
             </h1>
             <p 
               ref={titleRef}
               className="text-2xl sm:text-3xl md:text-4xl text-spiderverse-yellow font-comic mb-8"
             >
-              <span className="block">DevOps &</span>
+              <span className="block">Cloud, DevOps </span>
+              <span className="block">&</span>
               <span className="block">Frontend Developer</span>
             </p>
             <button

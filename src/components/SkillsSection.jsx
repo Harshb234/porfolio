@@ -14,21 +14,21 @@ const SkillsSection = () => {
       title: "Programming Languages",
       icon: <Code size={40} />,
       color: "text-spiderverse-pink-light",
-      skills: ["JavaScript", "Python", "Go", "Bash", "SQL"],
+      skills: ["JavaScript", "Python", "CPP", "Bash", "JAVA"],
       description: "The core languages I use to build and script applications across the multiverse."
     },
     {
       title: "DevOps & Cloud",
       icon: <Server size={40} />,
       color: "text-spiderverse-blue-light",
-      skills: ["Docker", "Kubernetes", "AWS", "GCP", "CI/CD", "Terraform", "Ansible"],
+      skills: ["Docker", "Kubernetes", "AWS", , "CI/CD", "Terraform"],
       description: "Tools and platforms I leverage to build, deploy, and maintain infrastructure."
     },
     {
       title: "Web Development",
       icon: <Globe size={40} />,
       color: "text-spiderverse-yellow",
-      skills: ["React", "Vue", "Next.js", "HTML/CSS", "Tailwind", "GraphQL", "Node.js"],
+      skills: ["React",  "Next.js", "HTML/CSS", "Tailwind",  "Node.js"],
       description: "Frontend and backend technologies I use to create engaging web experiences."
     }
   ];

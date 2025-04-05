@@ -166,7 +166,7 @@ const ContactSection: React.FC = () => {
                   onChange={handleChange}
                   required
                   className="w-full bg-black/40 border-spiderverse-purple text-white focus:border-spiderverse-blue focus:ring-spiderverse-blue"
-                  placeholder="Peter Parker"
+                  placeholder="Harsh Bmabatkar"
                 />
               </div>
               
@@ -182,7 +182,7 @@ const ContactSection: React.FC = () => {
                   onChange={handleChange}
                   required
                   className="w-full bg-black/40 border-spiderverse-purple text-white focus:border-spiderverse-blue focus:ring-spiderverse-blue"
-                  placeholder="peter@webslinger.com"
+                  placeholder="harshbambatkar0502@gmail.com"
                 />
               </div>
               
@@ -220,18 +220,18 @@ const ContactSection: React.FC = () => {
               
               <div className="space-y-4">
                 <a 
-                  href="mailto:peter@webslinger.com" 
+                  href="mailto:harshbambatkar0502@gmail.com" 
                   className="flex items-center text-white hover:text-spiderverse-blue transition-colors"
                 >
                   <Mail className="mr-3" size={20} />
-                  <span>peter@webslinger.com</span>
+                  <span>harshbambatkar0502@gmail.com</span>
                 </a>
               </div>
             </div>
             
             <div className="social-container flex justify-center gap-6">
               <a 
-                href="#" 
+                href="https://github.com/Harshb234" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="social-icon p-4 bg-spiderverse-black/50 rounded-full border-2 border-spiderverse-purple/30 text-white hover:text-spiderverse-yellow hover:border-spiderverse-yellow transition-all hover:scale-110"
@@ -240,7 +240,7 @@ const ContactSection: React.FC = () => {
               </a>
               
               <a 
-                href="#" 
+                href="https://www.linkedin.com/in/harsh-bambatkar-728827256" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="social-icon p-4 bg-spiderverse-black/50 rounded-full border-2 border-spiderverse-purple/30 text-white hover:text-spiderverse-pink hover:border-spiderverse-pink transition-all hover:scale-110"
@@ -249,7 +249,7 @@ const ContactSection: React.FC = () => {
               </a>
               
               <a 
-                href="mailto:peter@webslinger.com" 
+                href="mailto:harshbambatkar0502@gmail.com" 
                 className="social-icon p-4 bg-spiderverse-black/50 rounded-full border-2 border-spiderverse-purple/30 text-white hover:text-spiderverse-blue hover:border-spiderverse-blue transition-all hover:scale-110"
               >
                 <Mail size={24} />

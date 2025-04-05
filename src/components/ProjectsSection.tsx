@@ -21,26 +21,26 @@ const ProjectsSection: React.FC = () => {
   
   const projects: Project[] = [
     {
-      title: "Multi-Dimensional CMS",
-      description: "A content management system that spans across different design dimensions, allowing for flexible content organization.",
-      image: "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1064&q=80",
-      tags: ["React", "Node.js", "MongoDB", "GraphQL"],
+      title: "A simple static website hosted on Amazon S3. ",
+      description: "This project involved setting up an S3 bucket, configuring static website hosting, and uploading HTML/CSS files..",
+      image: "https://i.pinimg.com/736x/2e/60/4d/2e604d5562f54b18f90626f322f605c4.jpg",
+      tags: ["AWS", "S3", "HTML-CSS", "CLOUD COMPUTING"],
       github: "#",
       liveLink: "#"
     },
     {
-      title: "Web-Slinger DevOps Dashboard",
-      description: "A real-time monitoring dashboard for DevOps teams to track infrastructure and application performance.",
-      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-      tags: ["Vue", "D3.js", "AWS", "Docker"],
+      title: "3D Animated Website for Iphone 16",
+      description: "Developed an interactive website for iPhone using React.js, featuring dynamic animations and engaging user experience.",
+      image: "https://i.pinimg.com/736x/46/3f/b5/463fb5ea5cb2ddaf25411ac661d1d23a.jpg",
+      tags: ["React.js", "Three.js", "GSAP", ],
       github: "#",
       liveLink: "#"
     },
     {
-      title: "Spider-Commerce Platform",
-      description: "A full-featured e-commerce platform with inventory management, payment processing, and customer support.",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80",
-      tags: ["Next.js", "Stripe", "PostgreSQL", "Redis"],
+      title: "Quiz App",
+      description: "Developed an interactive quiz application using React.js with a dynamic user interface.",
+      image: "https://i.pinimg.com/736x/70/38/ea/7038ea85ace998bbfa317527b3a97d6e.jpg",
+      tags: ["React.js",  "REST API", "Tailwind-css"],
       github: "#",
       liveLink: "#"
     }

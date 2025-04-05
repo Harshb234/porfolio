@@ -21,35 +21,35 @@ const ExperienceSection: React.FC = () => {
   
   const experiences: Experience[] = [
     {
-      title: "Senior DevOps Engineer",
-      company: "Multiverse Technologies",
-      location: "San Francisco, CA",
-      date: "2022 - Present",
-      description: [
-        "Led the implementation of CI/CD pipelines, reducing deployment time by 70%",
-        "Designed and maintained Kubernetes clusters across multiple cloud providers",
-        "Automated infrastructure provisioning with Terraform and Ansible"
-      ]
-    },
-    {
       title: "Frontend Developer",
-      company: "Web Slingers Inc.",
-      location: "New York, NY",
-      date: "2019 - 2022",
+      company: "Herbs Magic",
+      location: "Pune",
+      date: "2025 - Present",
       description: [
-        "Developed responsive web applications using React and Vue",
-        "Implemented state management solutions with Redux and Vuex",
+        "Developed responsive web applications using React",
+        "Implemented state management solutions with Redux",
         "Collaborated with design team to create intuitive user interfaces"
       ]
     },
     {
-      title: "Full Stack Developer",
-      company: "Spider Tech Solutions",
-      location: "Chicago, IL",
-      date: "2017 - 2019",
+      title: "Junior Frontend Development",
+      company: "",
+      location: "Nagpur",
+      date: "2024",
       description: [
-        "Built RESTful APIs using Node.js and Express",
-        "Designed and implemented database schemas with MongoDB and PostgreSQL",
+        "Built responsive and dynamic user interfaces using React.js.",
+        "Utilized hooks like useState and useEffect to manage component state and side effects.",
+        "Collaborated on component-based architecture for scalable frontend applications."
+      ]
+    },
+    {
+      title: "Junior Frontend Developer",
+      company: "Sampurva Technologies",
+      location: "Nagpur",
+      date: "2022",
+      description: [
+        "Learn basics about Frontend Development",
+        "Designed and implemented basic Static Web Applications",
         "Created frontend interfaces with React and integrated with backend services"
       ]
     }
