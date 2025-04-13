@@ -33,9 +33,9 @@ const ExperienceSection: React.FC = () => {
     },
     {
       title: "Junior Frontend Development",
-      company: "",
+      company: "ITNetworkz",
       location: "Nagpur",
-      date: "2024",
+      date: "2023",
       description: [
         "Built responsive and dynamic user interfaces using React.js.",
         "Utilized hooks like useState and useEffect to manage component state and side effects.",
