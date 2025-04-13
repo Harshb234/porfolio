@@ -8,7 +8,7 @@ Welcome to your **MySpiderVersePortfolio** project!
 
 ## 🚀 Project Info
 
-- 🌐 **Live URL**: https://myspiderverse.dev *(update this with your custom domain or hosting link)*
+- 🌐 **Live URL**: https://harshbambatkar.netlify.app/ *(update this with your custom domain or hosting link)*
 
 ---
 
